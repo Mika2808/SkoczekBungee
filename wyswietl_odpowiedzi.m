@@ -1,0 +1,11 @@
+function wyswietl_odpowiedzi(v_ss,a_max,v_max,y_extr,r,L,S_max,F_max)
+disp('  ')
+disp('Rezultaty:')
+fprintf('   Prędkość po zakończeniu spadku swobodnego, v_ss = %0.2f km/h \n',v_ss)
+fprintf('   Maksymalne przyspieszenie, a_max = %0.2f g \n',a_max)
+fprintf('   Maksymalna prędkość, v_max = %0.2f km/h \n',v_max)
+fprintf('   Maksymalny spadek, |y_extr| = %0.2f m \n',y_extr)
+fprintf('   Maksymalny współczynnik wydłużenia liny, r_max/L = %0.2f \n',max(r)/L)
+fprintf('   Maksymalna siła w linie, S = %0.2f N \n',S_max)
+fprintf('   Maksymalna siła wypadkowa na skoczka, F = %0.2f N \n',F_max)
+end
