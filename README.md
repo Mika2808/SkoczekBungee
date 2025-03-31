@@ -6,8 +6,11 @@ W projekcie założono, że skoczek jest traktowany jako punktowa masa, a układ
 
 # Technologie i narzędzia
 
-Projekt został napisany w języku MATLAB. Wykorzystano standardowe funkcje do obliczeń numerycznych oraz wizualizacji wyników. Do głównych zastosowanych metod należą:
+Projekt został napisany w dwóch wersjach:
+- MATLAB
+- Python
 
-Obliczenia numeryczne oparte na metodzie Eulera do rozwiązywania równań ruchu
 
-Wykorzystanie funkcji do tworzenia wykresów i wizualizacji wyników
+Wykorzystano standardowe funkcje do obliczeń numerycznych oraz wizualizacji wyników. Do głównych zastosowanych metod należą:
+- Obliczenia numeryczne oparte na metodzie Eulera do rozwiązywania równań ruchu
+- Wykorzystanie funkcji do tworzenia wykresów i wizualizacji wyników
